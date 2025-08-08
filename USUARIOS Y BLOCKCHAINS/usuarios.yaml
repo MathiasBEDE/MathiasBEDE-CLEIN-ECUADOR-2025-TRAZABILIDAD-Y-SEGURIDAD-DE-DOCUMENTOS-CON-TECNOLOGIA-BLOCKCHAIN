@@ -1,0 +1,38 @@
+cookie:
+  expiry_days: 30
+  key: sistema_gestion_key
+  name: gestión_documental
+credentials:
+  usernames:
+    ZECU554:
+      area: SGC
+      name: RAUL ESTRADA
+      password: $2b$12$.Swc5AO7t4ndzkPSy/u55ek/PBIygSywwo3./ylMkKyGu/CchAdzG
+      role: SUPERVISOR
+    ZECU555:
+      area: SGC
+      name: SILVINA CASTRO
+      password: $2b$12$7zYX1j3R70ZamnZv/UM0XOgCqa6ZYvx/ZRn6diP9TDwMUDEPWchYe
+      role: SUPERVISOR
+    ZVECU031:
+      area: SGC
+      name: Mathias Alfonso Benavides Duran
+      password: $2b$12$lj63exCsDzBKT37Kk5cFT.SSZlu0TLO2cvBu0UXKhNVmvNuoeE9iG
+      role: COLABORADOR
+    ZVECU554:
+      area: SGC
+      name: CRISTIAN CASTRO
+      password: $2b$12$sDXr9teGuCyqCfp/KdyRG.Idu.FL83x3GmhCJfWSpmoY.If/nj11y
+      role: APROBADOR
+    ZVECU555:
+      area: SGC
+      name: CRISTINA FLORES
+      password: $2b$12$pEgnDQGVb4UHEL7/fMAhG.GadjZq6SP1jPIMLCT3eUkUfZlbqGgJa
+      role: APROBADOR
+    admin:
+      area: General
+      name: Administrador General
+      password: $2b$12$opOE/YKP5TEkbAzF3yuJyut.x0CV0nKXOkR2Hs8kPisTmYwYxbGiS
+      role: ADMIN
+preauthorized:
+  emails: []
