@@ -1,0 +1,2 @@
+numero_bloque,hash_documento,nombre_documento,tipo,fecha_creacion,fecha_actualizacion,version,estatus,modificacion,creador,area,revisor,aprobador,no_conformidad,auditoria,hash_bloque_anterior,timestamp,accion,hash_bloque,usuario_accion
+0,807e401a25517323c8938406d4aa2df910fe58ded3d0f678890126985bcbff63,An 003 Anexo Manual Calidad,Manual,2025-08-05 22:28:31,2025-08-05 22:28:31,v1,Publicado,,CRISTIAN CASTRO,SGC,CRISTIAN CASTRO,CRISTIAN CASTRO,,,0,2025-08-05 22:28:31,Documento Creado,937ebc1abbd155eb38d9758729ea882cbc5228aa8e754b7e46538ca707d40cf8,CRISTIAN CASTRO

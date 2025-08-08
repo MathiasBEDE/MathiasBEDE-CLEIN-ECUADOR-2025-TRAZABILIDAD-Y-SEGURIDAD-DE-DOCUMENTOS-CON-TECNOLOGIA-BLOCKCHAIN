@@ -1,0 +1,2 @@
+numero_bloque,hash_documento,nombre_documento,tipo,fecha_creacion,fecha_actualizacion,version,estatus,modificacion,creador,area,revisor,aprobador,no_conformidad,auditoria,hash_bloque_anterior,timestamp,accion,hash_bloque,usuario_accion
+0,9f8694f73e3fffe36f63735cb1cf672afaf78a5b1c21b9481d8749190f523a00,Rg 008 Registro Compras,Documento,2025-08-05 22:51:16,2025-08-05 22:51:16,v2,Publicado,,CRISTIAN CASTRO,SGC,CRISTIAN CASTRO,CRISTIAN CASTRO,,,0,2025-08-05 22:51:16,Documento Creado,6be25f1144cf0b5317e749160b2fff8c12b31e66794eb7fef707888be522bb5f,CRISTIAN CASTRO

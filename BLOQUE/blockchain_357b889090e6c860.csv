@@ -1,0 +1,2 @@
+numero_bloque,hash_documento,nombre_documento,tipo,fecha_creacion,fecha_actualizacion,version,estatus,modificacion,creador,area,revisor,aprobador,no_conformidad,auditoria,hash_bloque_anterior,timestamp,accion,hash_bloque,usuario_accion
+0,357b889090e6c860d5a6587f301a8a71b48533f29456637cf1206070c6aa4019,An 002 Anexo Lista Chequeo,Documento,2025-08-05 22:28:14,2025-08-05 22:28:14,v1,Publicado,,CRISTIAN CASTRO,SGC,CRISTIAN CASTRO,CRISTIAN CASTRO,,,0,2025-08-05 22:28:14,Documento Creado,7df3565909faf6b746ccadc5ca51d60be923053ca8bd28ef7d22b57606e5d3c8,CRISTIAN CASTRO

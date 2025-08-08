@@ -1,0 +1,2 @@
+numero_bloque,hash_documento,nombre_documento,tipo,fecha_creacion,fecha_actualizacion,version,estatus,modificacion,creador,area,revisor,aprobador,no_conformidad,auditoria,hash_bloque_anterior,timestamp,accion,hash_bloque,usuario_accion
+0,e968fbe1a1faa93f107c0bc94d2db0a84c603946631fa5caaf391190ee90389e,Rg 002 Registro Auditorias,Documento,2025-08-05 22:50:36,2025-08-05 22:50:36,v2,Publicado,,Mathias Alfonso Benavides Duran,SGC,,,,,0,2025-08-05 22:50:36,Documento Creado,ad648c5ceca08983ffe50ccf824aeeb3e6d8834ea101d3574d277860db67db9a,Mathias Alfonso Benavides Duran

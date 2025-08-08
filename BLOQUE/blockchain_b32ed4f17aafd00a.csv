@@ -1,0 +1,2 @@
+numero_bloque,hash_documento,nombre_documento,tipo,fecha_creacion,fecha_actualizacion,version,estatus,modificacion,creador,area,revisor,aprobador,no_conformidad,auditoria,hash_bloque_anterior,timestamp,accion,hash_bloque,usuario_accion
+0,b32ed4f17aafd00ac38db64e8735a1b40d17acc371c2cfaa94af3c70137519a4,Rg 001 Registro Entrenamiento,Documento,2025-08-05 22:49:39,2025-08-05 22:49:39,v3,Publicado,,Mathias Alfonso Benavides Duran,SGC,,,,,0,2025-08-05 22:49:39,Documento Creado,27625c525fa3df77a16575191b74d0356f1b7004b0e28753b939d65766bff03e,Mathias Alfonso Benavides Duran
