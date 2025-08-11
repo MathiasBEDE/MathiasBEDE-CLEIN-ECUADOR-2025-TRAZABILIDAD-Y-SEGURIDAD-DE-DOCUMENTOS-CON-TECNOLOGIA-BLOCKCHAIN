@@ -1,6 +1,6 @@
 # Descargo de Responsabilidad
 
-Este repositorio presenta una propuesta académica titulada **“Trazabilidad y Seguridad Documental con Tecnología Blockchain”**, desarrollada por **Matías Benavides**, estudiante de Ingeniería de la Producción de la Escuela Politécnica Nacional.
+Este repositorio presenta una propuesta académica titulada **“Trazabilidad y Seguridad Documental con Tecnología Blockchain”**, desarrollada por **Mathias Benavides**, estudiante de Ingeniería de la Producción de la Escuela Politécnica Nacional.
 
 ---
 
@@ -34,6 +34,6 @@ Este proyecto ha sido compartido en GitHub como material de estudio y demostraci
 
 ---
 
-© 2025 - Matías Benavides  
+© 2025 - Mathias Benavides  
 Estudiante de Ingeniería de la Producción  
 Escuela Politécnica Nacional – Ecuador
